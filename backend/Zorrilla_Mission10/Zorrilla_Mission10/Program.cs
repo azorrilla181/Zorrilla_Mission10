@@ -17,16 +17,7 @@ builder.Services.AddDbContext<BowlerDBContext>(options =>
 });
 
 //ConfigureAwaitOptions CORS
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowFrontend",
-        builder =>
-        {
-            builder.WithOrigins("http://localhost:3000/", "http://localhost:3001/")
-                    .AllowAnyMethod()
-                    .AllowAnyHeader();
-        });
-});
+builder.Services.AddCors();
 
 var app = builder.Build();
 
@@ -38,7 +29,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-app.UseCors("AllowFrontEnd");
+app.UseCors(x => x.WithOrigins("http://localhost:3000"));
 
 //app.UseHttpsRedirection();
 

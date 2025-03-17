@@ -8,7 +8,7 @@ export type bowl = {
     bowlerState: string;
     bowlerZip: string;
     bowlerPhoneNumber: string;
-    teamclass: {
+    team: {
         teamID: number
         teamName: string;
     }
