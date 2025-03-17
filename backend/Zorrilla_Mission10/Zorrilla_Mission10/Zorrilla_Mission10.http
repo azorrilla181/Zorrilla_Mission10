@@ -1,0 +1,6 @@
+@Zorrilla_Mission10_HostAddress = http://localhost:5292
+
+GET {{Zorrilla_Mission10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

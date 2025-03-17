@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\data\\teamsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\data\\teamsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\data\\bowlerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\data\\bowlerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|c:\\users\\aezc2\\source\\repos\\zorrilla_mission10\\backend\\zorrilla_mission10\\zorrilla_mission10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B91F71-DA30-44DA-AFF2-209D7780E54D}|Zorrilla_Mission10\\Zorrilla_Mission10.csproj|solutionrelative:zorrilla_mission10\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlerCLass.cs",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Data\\BowlerCLass.cs",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\Data\\BowlerCLass.cs",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Data\\BowlerCLass.cs",
+              "RelativeToolTip": "Zorrilla_Mission10\\Data\\BowlerCLass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:46:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BowlerDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Data\\BowlerDBContext.cs",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\Data\\BowlerDBContext.cs",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Data\\BowlerDBContext.cs",
+              "RelativeToolTip": "Zorrilla_Mission10\\Data\\BowlerDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:55:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Zorrilla_Mission10\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T05:00:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Program.cs",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\Program.cs",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Program.cs",
+              "RelativeToolTip": "Zorrilla_Mission10\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:11:04.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BowlersController.cs",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Controllers\\BowlersController.cs",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\Controllers\\BowlersController.cs",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Controllers\\BowlersController.cs",
+              "RelativeToolTip": "Zorrilla_Mission10\\Controllers\\BowlersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:39:30.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamsClass.cs",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Data\\TeamsClass.cs",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\Data\\TeamsClass.cs",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Data\\TeamsClass.cs",
+              "RelativeToolTip": "Zorrilla_Mission10\\Data\\TeamsClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:54:04.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\appsettings.json",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\appsettings.json",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\appsettings.json",
+              "RelativeToolTip": "Zorrilla_Mission10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T01:11:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Zorrilla_Mission10\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\AEZC2\\source\\repos\\Zorrilla_Mission10\\backend\\Zorrilla_Mission10\\Zorrilla_Mission10\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Zorrilla_Mission10\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:01:10.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

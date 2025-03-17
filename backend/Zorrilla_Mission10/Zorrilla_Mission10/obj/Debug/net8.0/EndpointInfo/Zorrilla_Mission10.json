@@ -1,0 +1,206 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Zorrilla_Mission10",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Bowlers": {
+      "get": {
+        "tags": [
+          "Bowlers"
+        ],
+        "operationId": "GetBowlerInfo",
+        "parameters": [
+          {
+            "name": "teamNames",
+            "in": "query",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BowlerCLass"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BowlerCLass"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BowlerCLass"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BowlerCLass": {
+        "required": [
+          "bowlerAddress",
+          "bowlerCity",
+          "bowlerFirstName",
+          "bowlerID",
+          "bowlerLastName",
+          "bowlerPhoneNumber",
+          "bowlerState",
+          "bowlerZip"
+        ],
+        "type": "object",
+        "properties": {
+          "bowlerID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "bowlerLastName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "bowlerFirstName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "bowlerMiddleInit": {
+            "type": "string",
+            "nullable": true
+          },
+          "bowlerAddress": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "bowlerCity": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "bowlerState": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "bowlerZip": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "bowlerPhoneNumber": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "teamID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "team": {
+            "$ref": "#/components/schemas/TeamsClass"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TeamsClass": {
+        "required": [
+          "teamName"
+        ],
+        "type": "object",
+        "properties": {
+          "teamID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "teamName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "captainID": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
